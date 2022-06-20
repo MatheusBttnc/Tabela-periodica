@@ -1,0 +1,43 @@
+#titulo {
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    font-family: sans-serif;
+}
+
+td {
+
+    height: 60px;
+    width: 60px;
+    text-align-last: center;
+    font-weight: bolder;
+    border: solid;
+}
+
+.inv {
+
+    border: white;
+}
+
+.verdes {
+
+    background-color: green;
+}
+
+.azul {
+
+    background-color: blue;
+}
+
+.laranjas {
+
+    background-color:  orange;
+}
+
+.amarelos {
+
+    background-color: yellow;
+}
